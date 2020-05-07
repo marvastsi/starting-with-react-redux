@@ -1,0 +1,4 @@
+export const ON_INCREMENT = 'ON_INCREMENT';
+export const ON_DECREMENT = 'ON_DECREMENT';
+export const ON_INCREMENT2 = 'ON_INCREMENT2';
+export const ON_DECREMENT2 = 'ON_DECREMENT2';
